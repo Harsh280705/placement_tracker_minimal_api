@@ -1,0 +1,5 @@
+bin/
+obj/
+frontend/dist/
+frontend/node_modules/
+TestResults/
